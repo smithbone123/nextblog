@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "thumbnail": "/img/post/post1.jpg",
+    "category": "UI Design",
+    "date": "21 June, 2023",
+    "title": "Similique expedita autem molestias non culpa sed consectetur dignissimos",
+    "shortDescription": "Similique expedita autem molestias non culpa, sed, consectetur dignissimos, mollitia eius vitae tenetur incidunt saepe ea harum unde aliquam",
+    "authorAvatar": "/img/avatar.jpg",
+    "authorName": "Name Goes Here",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": "2",
+    "thumbnail": "/img/post/post2.jpg",
+    "category": "UI Design",
+    "date": "21 June, 2023",
+    "title": "Similique expedita autem molestias non culpa sed consectetur dignissimos",
+    "shortDescription": "Similique expedita autem molestias non culpa, sed, consectetur dignissimos, mollitia eius vitae tenetur incidunt saepe ea harum unde aliquam",
+    "authorAvatar": "/img/avatar.jpg",
+    "authorName": "Name Goes Here",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": "3",
+    "thumbnail": "/img/post/post3.jpg",
+    "category": "UI Design",
+    "date": "21 June, 2023",
+    "title": "Similique expedita autem molestias non culpa sed consectetur dignissimos",
+    "shortDescription": "Similique expedita autem molestias non culpa, sed, consectetur dignissimos, mollitia eius vitae tenetur incidunt saepe ea harum unde aliquam",
+    "authorAvatar": "/img/avatar.jpg",
+    "authorName": "Name Goes Here",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": "4",
+    "thumbnail": "/img/post/post4.jpg",
+    "category": "UI Design",
+    "date": "21 June, 2023",
+    "title": "Similique expedita autem molestias non culpa sed consectetur dignissimos",
+    "shortDescription": "Similique expedita autem molestias non culpa, sed, consectetur dignissimos, mollitia eius vitae tenetur incidunt saepe ea harum unde aliquam",
+    "authorAvatar": "/img/avatar.jpg",
+    "authorName": "Name Goes Here",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": "5",
+    "thumbnail": "/img/post/post5.jpg",
+    "category": "UI Design",
+    "date": "21 June, 2023",
+    "title": "Similique expedita autem molestias non culpa sed consectetur dignissimos",
+    "shortDescription": "Similique expedita autem molestias non culpa, sed, consectetur dignissimos, mollitia eius vitae tenetur incidunt saepe ea harum unde aliquam",
+    "authorAvatar": "/img/avatar.jpg",
+    "authorName": "Name Goes Here",
+    "authorJob": "Product Designer"
+  },
+  {
+    "id": "6",
+    "thumbnail": "/img/post/post6.jpg",
+    "category": "UI Design",
+    "date": "21 June, 2023",
+    "title": "Similique expedita autem molestias non culpa sed consectetur dignissimos",
+    "shortDescription": "Similique expedita autem molestias non culpa, sed, consectetur dignissimos, mollitia eius vitae tenetur incidunt saepe ea harum unde aliquam",
+    "authorAvatar": "/img/avatar.jpg",
+    "authorName": "Name Goes Here",
+    "authorJob": "Product Designer"
+  }
+]
